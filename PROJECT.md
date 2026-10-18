@@ -49,7 +49,7 @@ Key rotation, account linking, wallet migration continuity, DIDComm messaging, f
 
 ## Agent governance
 
-Read `AGENTS.md` and role-specific `.agents/*.md`. Project Manager plans and coordinates; Developer implements; Tester independently verifies; Security Reviewer assesses risks. Human Product Owner approves significant architecture, security exceptions and milestone transitions. No fabricated approvals or unexecuted test results. Do not deploy or modify production without explicit permission.
+Read `AGENTS.md` and role-specific `.agents/*.md`. Project Manager plans and coordinates worker agents; Developer implements; Tester independently verifies; Security Reviewer assesses risks. Human Product Owner approves significant architecture, security exceptions and milestone transitions. No fabricated approvals or unexecuted test results. Do not deploy or modify production without explicit permission.
 
 ## First vertical slice
 
